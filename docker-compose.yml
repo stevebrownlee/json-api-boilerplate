@@ -1,0 +1,25 @@
+version: '3'
+services:
+  node:
+    image: node:6
+    container_name: node_host
+    volumes:
+      - .:/code
+    depends_on:
+      - apphost
+
+  apphost:
+    build: .
+    image: nashvillesoftwareschool/jsonserverapi
+    container_name: json_server_api
+    restart: always
+    ports:
+      - "3000:3000"
+    volumes:
+      - .:/code
+    command:
+      - /bin/sh
+      - -c
+      - |
+          npm install
+          npm start
