@@ -1,0 +1,4 @@
+{
+	"/animalia": "/animals?_expand=employee&_sort=employee.id&_embed=treatments&_expand=location",
+	"/animalia/:id": "/animals/:id?_expand=employee&_sort=employee.id&_embed=treatments&_expand=location"
+}
