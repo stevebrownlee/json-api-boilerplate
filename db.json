@@ -1,34 +1,4 @@
 {
-  "treatments": [
-    {
-      "id": 1,
-      "animalId": 3,
-      "employeeId": 4,
-      "description": "Provided yearly shots for boarding. Owner wanted teeth cleaned. Scheduled procedure for 8/11/2017",
-      "timestamp": "07/27/2017"
-    },
-    {
-      "id": 2,
-      "animalId": 3,
-      "employeeId": 4,
-      "description": "Animal was administered lethal shots",
-      "timestamp": "02/04/2019"
-    },
-    {
-      "id": 3,
-      "animalId": 1,
-      "employeeId": 3,
-      "description": "Ear infection",
-      "timestamp": "06/12/2016"
-    },
-    {
-      "id": 4,
-      "animalId": 1,
-      "employeeId": 1,
-      "description": "Tick removal",
-      "timestamp": "09/14/2018"
-    }
-  ],
   "animals": [
     {
       "id": 1,
