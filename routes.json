@@ -1,7 +1,7 @@
 {
     "/animalia": "/animals?_expand=employee&_sort=employee.id&_embed=treatments&_expand=location",
     "/animalia/:id": "/animals/:id?_expand=employee&_sort=employee.id&_embed=treatments&_expand=location",
-    "/users*": "/600/users$1",
+    "/users*": "/640/users$1",
     "/animalOwners*": "/660/animalOwners$1",
     "/treatments*": "/660/treatments$1",
     "/animals*": "/660/animals$1",

@@ -186,36 +186,42 @@
   "users": [
     {
       "email": "rtanay@gmail",
+      "username": "rtanay@gmail",
       "password": "$2a$10$oygOhG7QWFgGyV2jOyuG6O12BkiURP2zX5ir5dgOxLflCpFei18G6",
       "name": "Ryan Tanay",
       "id": 1
     },
     {
       "email": "angela@lee.com",
+      "username": "angela@lee.com",
       "password": "$2a$10$e5oz6NxOX9vnpEnU49c4PelSBEgPVlXQl4Rtwc7xuulZhy/MVCtg6",
-      "name": "Agnela Lee",
+      "name": "Angela Lee",
       "id": 2
     },
     {
       "email": "kirren@covey.com",
+      "username": "kirren@covey.com",
       "password": "$2a$10$VfGyDddc3HMFSYbVLjjXPesW8MuClALziXeurEYMQ5VpvIzNOt.T.",
       "name": "Kirren Covey",
       "id": 3
     },
     {
       "email": "dejan@dejan.com",
+      "username": "dejan@dejan.com",
       "password": "$2a$10$ZZLHFDno.i6sk1GcJJAJqOe985s4wJdZ3mlTwm9PmrsPdYyefJFXi",
       "name": "Dejan Stepjanovich",
       "id": 4
     },
     {
       "email": "rainu@ittycheriah",
+      "username": "rainu@ittycheriah",
       "password": "$2a$10$B4U95aKTarhfQ0lNb4kTPeciifRlvY5gZR9DG8yTSwOhFqgwr0xGa",
       "name": "Rainu Ittycheriah",
       "id": 5
     },
     {
       "email": "rolando@bernal.com",
+      "username": "rolando@bernal.com",
       "password": "$2a$10$0lkiwy4A57CdeMZCZAaxfOWXaw2I8q1QuRljrCAbL5omsWjd2uJzy",
       "name": "Rolando Bernal",
       "id": 6
