@@ -5,8 +5,7 @@ const middlewares = jsonServer.defaults()
 const port = process.env.PORT || 3000
 
 server.use(jsonServer.rewriter({
-    '/animalia': '/animals?_expand=employee&_sort=employee.id&_embed=treatments&_expand=location',
-    '/blog/:resource/:id/show': '/:resource/:id'
+    '/animalia': '/animals?_expand=employee&_sort=employee.id&_embed=treatments&_expand=location'
 }))
 server.use(middlewares)
 server.use(router)

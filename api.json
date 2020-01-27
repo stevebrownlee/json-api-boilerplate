@@ -225,6 +225,13 @@
       "password": "$2a$10$0lkiwy4A57CdeMZCZAaxfOWXaw2I8q1QuRljrCAbL5omsWjd2uJzy",
       "name": "Rolando Bernal",
       "id": 6
+    },
+    {
+      "email": "steve@stevebrownlee.com",
+      "password": "$2a$10$6k8w3w7.di03KCNOc/GzBOUCezHzgdrT.Q0RMicV0zus7dIwkHP8i",
+      "name": "Steve Brownlee",
+      "username": "steve@stevebrownlee.com",
+      "id": 7
     }
   ],
   "animalOwners": [
